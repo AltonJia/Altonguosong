@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Altonguosong
 - 👀 I’m interested in  CSS、 Web 、 security and penetration.
 - 🌱 I’m currently learning BD、AI、python、sql、Hadoop、spark
-- 💞️ There is no appetite for cooperation currently.
+- 💞️ There is appetite for cooperation.
 - 📫 Reach me through this mailbox: phonexjia@163.com
 
 <!---
